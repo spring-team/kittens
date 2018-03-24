@@ -41,3 +41,5 @@ Need Help?  [Join our Slack team][slack].
 [slack]: https://join.atomist.com/
 
 You're good enough, you're smart enough, and doggone it, people like you.
+
+As I say yes to life, life says yes to me.
